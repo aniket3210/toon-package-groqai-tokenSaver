@@ -1,0 +1,11 @@
+[JSON]
+Prompt tokens :  900
+Completion tokens :  114
+Total tokens used :  1014
+
+-------------------------------
+
+[TOON]
+Prompt tokens :  662
+Completion tokens :  46
+Total tokens used :  708
